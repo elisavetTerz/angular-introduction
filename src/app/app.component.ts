@@ -9,4 +9,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   name: string = 'Elisavet';
+
+  person = {
+    givenName: 'Elisavet',
+    surName: 'Terz',
+    age: 0x37,
+    email: 'savet@aueb.gr'
+  }
 }

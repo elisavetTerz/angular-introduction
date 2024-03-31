@@ -9,10 +9,10 @@ import { Component } from '@angular/core';
 })
 export class PersonTableComponent {
   person = {
-    givenName: 'Christodoulos',
-    surName: 'Fragkoudakis',
+    givenName: 'Elisavet',
+    surName: 'Terz',
     age: 0x37,
-    email: 'chfrag@aueb.gr',
+    email: 'savet@aueb.gr',
   };
 
 }

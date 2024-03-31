@@ -1,3 +1,4 @@
+
 import { Component } from '@angular/core';
 import { PersonTableComponent } from './components/person-table/person-table.component';
 import { Person } from './shared/interfaces/person';

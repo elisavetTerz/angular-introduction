@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { Person } from './shared/interfaces/person';
-import { PersonTableComponent } from "./components/person-table.component";
+import { PersonTableComponent } from "./components/person-table/person-table.component";
 // import { PersonTableComponent } from './components/person-table/person-table.component';
 
 

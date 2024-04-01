@@ -1,4 +1,3 @@
-
 import { Component } from '@angular/core';
 import { PersonTableComponent } from './components/person-table/person-table.component';
 import { Person } from './shared/interfaces/person';
@@ -17,7 +16,4 @@ import { RouterLink, RouterOutlet } from '@angular/router';
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })
-export class AppComponent {
-  
-  
-}
+export class AppComponent {}

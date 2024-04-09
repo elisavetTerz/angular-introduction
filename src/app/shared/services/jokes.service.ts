@@ -8,6 +8,6 @@ const DAD_JOKES_API_URL = 'https://icanhazdadjoke.com/';
   providedIn: 'root'
 })
 export class JokesService {
-
+  
   http: HttpClient = inject(HttpClient);
 }

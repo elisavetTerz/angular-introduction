@@ -388,7 +388,7 @@ getDadJoke() {
   ng new angular-introduction --standalone --skip-tests
   ```
  
-- Επεμβάσεις στο αρχείο `ts.config.json`
+- Επεμβάσεις στο αρχείο `tsconfig.json`
  
   ```json
   {

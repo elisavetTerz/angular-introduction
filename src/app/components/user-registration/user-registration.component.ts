@@ -23,6 +23,7 @@ import { UserService } from 'src/app/shared/services/user.service';
   templateUrl: './user-registration.component.html',
   styleUrl: './user-registration.component.css',
 })
+
 export class UserRegistrationComponent {
   userService = inject(UserService);
 
